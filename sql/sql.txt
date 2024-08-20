@@ -1,1 +1,3 @@
+#Seguimiento de las consultas
 
+1. Se realizo una consulta para filtrar los datos en el año 2013. 2024-08-19

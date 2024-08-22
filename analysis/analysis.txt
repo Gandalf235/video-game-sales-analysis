@@ -6,3 +6,6 @@ Se almacenaron los datos del 2013 al 2015
   -Datavgsales2013_2024_08_21 datos del 2013
   -Datavgsales2014_2024_08_21 datos del 2014
   -Datavgsales2015_2024_08_21 datos del 2015
+  -Datavgsales2016_2024_08_21 datos del 2016
+  -Datavgsales2017_2024_08_21 datos del 2017
+  -Datavgsales2018_2024_08_21 datos del 2018

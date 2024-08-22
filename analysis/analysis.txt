@@ -1,5 +1,8 @@
 #Seguimiento del analisis en Google Sheet
 
-#
+# La primera parte consiste en solo almacenar los datos de la consulta para su posterior analisis
 1. 2024-08-21
 Se almacenaron los datos del 2013 al 2015
+  -Datavgsales2013_2024_08_21 datos del 2013
+  -Datavgsales2014_2024_08_21 datos del 2014
+  -Datavgsales2015_2024_08_21 datos del 2015

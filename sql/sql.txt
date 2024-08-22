@@ -5,4 +5,5 @@ analisar.
 Esto se realiza con el proposito de tener control y seguimiento de cada paso que se realiza en el proyecto. Tener un control y seguiminto de cada paso, aunque paresca repetitivo.
 
 #Consultas
-1. Se realizo una consulta para filtrar los datos en el año 2013. 2024-08-19
+1. (vgsales_2013_2024_08_19_V01) Se realizo una consulta para filtrar los datos en el año 2013. 2024-08-19
+2. (vgsales_2014_2024_08_21_V01) Se realizo una consulta para filtrar los datos en el año 2014. 2024-08-21

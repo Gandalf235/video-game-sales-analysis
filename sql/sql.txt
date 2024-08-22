@@ -1,3 +1,8 @@
 #Seguimiento de las consultas
 
+#Nota: Los scripts de consulta de la base de datos, son similares por no decir iguales. Podria pareser repetitivo y un sin sentido. Solo se cambian la condicion del filtro en la consulta para el año que nos interesa
+analisar.
+Esto se realiza con el proposito de tener control y seguimiento de cada paso que se realiza en el proyecto. Tener un control y seguiminto de cada paso, aunque paresca repetitivo.
+
+#Consultas
 1. Se realizo una consulta para filtrar los datos en el año 2013. 2024-08-19

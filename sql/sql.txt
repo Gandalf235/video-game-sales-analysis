@@ -5,6 +5,7 @@ analisar.
 Esto se realiza con el proposito de tener control y seguimiento de cada paso que se realiza en el proyecto. Tener un control y seguiminto de cada paso, aunque paresca repetitivo.
 
 #Consultas
+
 1. (vgsales_2013_2024_08_19_V01) Se realizo una consulta para filtrar los datos en el año 2013. 2024-08-19
 
 2. 2024-08-21
@@ -13,3 +14,13 @@ Esto se realiza con el proposito de tener control y seguimiento de cada paso que
   - (vgsales_2016_2024_08_21_V01) Se realizo una consulta para filtrar los datos en el año 2016.
   - (vgsales_2017_2024_08_21_V01) Se realizo una consulta para filtrar los datos en el año 2017.
   - (vgsales_2018_2024_08_21_V01) Se realizo una consulta para filtrar los datos en el año 2018.
+
+3. 25-08-25
+- Se restructura el codigo de los script de consulta, tambien se añade a la consola de Nintendo WiiU
+- Se agregan las consultas nuevas solo hasta el año 2018. Esto debido a que del 2019 a 2023 no hay datos de ventas registrados en el conjunto de datos.
+
+  - (vgsales_2014_2024_08_25_V02) Se realizo una consulta para filtrar los datos en el año 2014.
+  - (vgsales_2015_2024_08_25_V02) Se realizo una consulta para filtrar los datos en el año 2015.
+  - (vgsales_2016_2024_08_25_V02) Se realizo una consulta para filtrar los datos en el año 2016.
+  - (vgsales_2017_2024_08_25_V02) Se realizo una consulta para filtrar los datos en el año 2017.
+  - (vgsales_2018_2024_08_25_V02) Se realizo una consulta para filtrar los datos en el año 2018.
